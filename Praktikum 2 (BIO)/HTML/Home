@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<center> <title> CSS Layouting : Display </title> <center>
+	</head>
+	<body>
+      <body bgcolor = "D2B48C">
+		<div class=“header” >
+      <font face ="MV Boli"><font size ="8">  WELCOME TO MY WEB </font> <br>
+		<style>
+			.navigasi { text-align : center;}
+			.navigasi li {
+				display : inline-block;
+				background-color :Grey;
+				width : 100px;
+				height : 20px;
+			}
+		</style>
+	</head>
+	<body>
+		</div>
+		<div class="navigasi">
+			<ul >
+				<li><a href=“#”>HOME</a></li>
+				<li><a href=“#”>CITA-CITA</a></li>
+				<li><a href=“#”>USAHA</a></li>
+        <li><a href=“#”>IMPIAN</a></li>
+			</ul>
+		<div class=“main”>
+			<img src="https://i.pinimg.com/originals/89/05/ed/8905ede5cd67642f16393387708d0eb9.png" alt="Yossinta Rahmandanti D (@yossintard) • Foto dan video Instagram | Ilustrasi  gadis, Lukisan still life, Kartun hijab" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 156px; height: 195px; margin: 0px;">
+      <p>SHORT BIO </p> </br>
+      
+		</div>
+		<div class=“footer”>
+		</div>
+	</body>
+</html>
