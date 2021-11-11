@@ -1,2 +1,2 @@
-# sintadewi22.github.io
+# SintaDewi22.github.io
 Portofolioku
