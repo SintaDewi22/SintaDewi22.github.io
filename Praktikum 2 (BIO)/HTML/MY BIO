@@ -1,0 +1,55 @@
+<html>
+<head>
+	<title>Margin CSS</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+   <style>
+			.header { background-color : #D2B48C; }
+			.main { background-color :  #CD853F; }
+		</style>
+      <body bgcolor = "EFE2BA">
+      </head>
+	<body>
+		<div class="header" >
+      <center><h1><font face ="Segoe Script"><font size ="8">MY BIO :)</font> <br></h1>
+		</div>
+      <center><img src="https://i.pinimg.com/originals/92/63/98/926398d6fcb1e59ee8551419114e701e.jpg" alt="Pin oleh Lynette di ## art ❟ | Ilustrasi karakter, Ilustrasi digital, Seni  inspirasi" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 200.688px; height: 310px; margin: 0px;"><center>
+	<center><div class="box"><center>
+    <h1> </h1>
+    <table>
+<tr>
+<td>Nama  </td>
+<td>: Sinta Dewi Oktaviasari</td>
+</tr>
+<tr>
+<td>Tempat/Tanggal Lahir  </td>
+<td>: Madiun, 22 Oktober 2000</td>
+</tr>
+<tr>
+<td>Alamat </td>
+<td>: Jalan Sendang Mulya, Desa Nglanduk, RT 05 RW 02, Kecamatan Wungu Kabupaten Madiun</td>
+</tr>
+<tr>
+<td>Hobby </td>
+<td>: Menggambar</td>
+</tr>
+<tr>
+  <td>Pendidikan Terakhir </td>
+</tr>
+   <tr>
+<td>SD</td>
+<td>: SDN NGLANDUK 3</td>
+<tr>
+<td>SMP</td>
+<td>: SMPN 2 WUNGU</td>
+</tr>
+    <tr>
+<td>SMA</td>
+<td>: SMKN 2 MADIUN</td>
+</tr>
+<tr>
+		</div>
+	</div>
+</body>
+</html>
